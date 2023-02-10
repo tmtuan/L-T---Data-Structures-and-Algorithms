@@ -1,6 +1,6 @@
 /* This program generates solutions to N-disks in Tower of Hanoi  */
 /* References: https://www.youtube.com/watch?v=8lhxIOAfDss */
-
+/* For demonstration of recursion functions */
 public class TowerOfHanoi {
 
     // Move a disk from src to des
